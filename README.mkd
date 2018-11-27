@@ -1,7 +1,7 @@
 embeddedmap
 ===========
 
-![EmbeddedMap Screenshot](https://raw.github.com/fbourge/embeddedmap/blob/master/embeddedmap.png)
+![EmbeddedMap Screenshot](https://raw.githubusercontent.com/fbourge/embeddedmap/master/embeddedmap.png)
 
 Generated map can be found here : http://www.codecubix.eu/embeddedmap/ 
 
