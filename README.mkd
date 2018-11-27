@@ -1,13 +1,13 @@
 embeddedmap
 ===========
 
-![EmbeddedMap Screenshot](https://raw.github.com/yoannsculo/embeddedmap/master/embeddedmap.png)
+![EmbeddedMap Screenshot](https://raw.github.com/fbourge/embeddedmap/blob/master/embeddedmap.png)
 
-Generated map can be found here : http://embeddedmap.sculo.fr
+Generated map can be found here : http://www.codecubix.eu/embeddedmap/ 
 
 To generate the map, put .json files from here
 
-	https://github.com/yoannsculo/emploi/tree/master/societes
+	https://github.com/fbourge/emploi/tree/master/societes
 
 and run the following command
 
